@@ -44,7 +44,7 @@ body {
   height: 100%;
 }
 
-.header_adress {
+.header_address {
   display: flex;
   flex-direction: column;
   justify-self: end;
@@ -52,7 +52,7 @@ body {
   max-width: 240px;
 }
 
-.header_adress_list {
+.header_address_list {
   font-size: 18px;
   font-style: normal;
   line-height: 24.3px;
@@ -290,12 +290,13 @@ body {
   padding-left: 50px;
 }
 
-.footer_adress {
+.footer_address {
   width: 254px;
 }
 
-.footer_adress_list {
+.footer_address_list {
   font-size: 18px;
+  font-style: normal;
   line-height: 24.3px;
   text-underline-offset: 4.5px;
   list-style: none;
